@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.background {
+    background-image: url('https://new-assets.ccbp.in/frontend/static-website/moon-stars-bg.png');
+    background-size: cover;
+    height: 1000px;
+    width: 700px;
+}
+
+.container {
+    padding: 80px;
+    text-align: center;
+}
+
+.heading {
+    font-family: "Bree Serif";
+    color: #ffffff;
+}
+
+.paragraph {
+    font-family: "Bree Serif";
+    color: #ffffff;
+}
+
+.box {
+    background-image: url('https://d2clawv67efefq.cloudfront.net/ccbp-static-website/moon-bg.png');
+    background-size: cover;
+    font-family: "Bree Serif";
+    color: #ffffff;
+    height: 300px;
+    width: 400px;
+    margin-top: 200px;
+    text-align: center;
+    align-content: center;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.button {
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    background-color: #8e97fd;
+    height: 50px;
+    width: 150px;
+    color: #ffffff;
+    border: 0px;
+    font-family: "Bree Serif";
+}
+
+.background-details {
+    background-size: cover;
+    background-color: #03174c;
+    height: 1000px;
+    width: 600px;
+}
+
+.bottom-heading {
+    color: #ffffff;
+    margin: 20px;
+    font-family: "Bree Serif";
+}
+
+.bottom-paragraph {
+    color: #98a1bd;
+    margin: 20px;
+    font-family: "Bree Serif";
+}
+
+.related-heading {
+    color: #ffffff;
+    font-family: "Bree Serif";
+    margin: 20px;
+}
+
+.image {
+    margin-top: 10px;
+    margin-bottom: 5px;
+    margin-left: 20px;
+}
+
+.bottom-section-button {
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    background-color: #8e97fd;
+    height: 50px;
+    width: 150px;
+    color: #ffffff;
+    border: 0px;
+    margin: 20px;
+    font-family: "Bree Serif";
+}
